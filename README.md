@@ -18,3 +18,7 @@ React Native | Expo | TypeScript | JavaScript
 ### Links
 [Figma](https://www.figma.com/design/PdVungRYZQFcU2RjEFiizP/Osciladores-Desporto-?node-id=0-1&p=f&t=iiepvlkzgwHwUtmw-0) | [GitHub](https://github.com/t-ros/ShiftAppens2025)
 
+### Licença
+
+Este projeto está licenciado sob a [Eclipse Public License 2.0](https://www.eclipse.org/legal/epl-2.0/).
+
