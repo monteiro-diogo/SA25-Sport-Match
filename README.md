@@ -1,4 +1,4 @@
-Somos os **MemoBox** e apresentamos os seguintes:
+Apresentamos os seguintes:
 
 &nbsp;&nbsp;Uma aplicação de desporto colaborativo que conecta amantes de desporto para jogos e treinos em campos públicos ou privados, com sistema de reservas, gestão de eventos, pagamentos seguros e funcionalidades sociais. 
 &nbsp;&nbsp;Organize, participe e interaja - tudo numa só plataforma, adaptada a si.
@@ -16,7 +16,7 @@ React Native | Expo | TypeScript | JavaScript
 [António Silva](https://www.linkedin.com/in/ant%C3%B3nio-silva-549a742a2/) | [Diogo Monteiro](https://www.linkedin.com/in/monteiro-diogo/) | [Pedro Carvalho](https://www.linkedin.com/in/pedro-carvalho-760678280/)
 
 ### Links
-[Figma](https://www.figma.com/design/PdVungRYZQFcU2RjEFiizP/Osciladores-Desporto-?node-id=0-1&p=f&t=iiepvlkzgwHwUtmw-0) | [GitHub](https://github.com/t-ros/ShiftAppens2025)
+[Our Taikai Hackaton Page](https://taikai.network/shift-appens/hackathons/shift-appens-2025/projects/cma5w8ex00dezne4uqsryna5b/idea)
 
 ### Licença
 
